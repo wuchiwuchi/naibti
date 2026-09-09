@@ -1,0 +1,980 @@
+{
+  "title": "NAIBTI 奶系角色与故事资料库",
+  "asOf": "2026-09-09",
+  "coverage": "已检索的开放集合，不代表全网完整名单",
+  "note": "性格解读与题目是 NAIBTI 的趣味改编；故事按来源标注，角色在不同作者笔下可能不同。这里没有好奶坏奶，也不是心理诊断。",
+  "profileNote": "所有profile坐标及人格文案为NAIBTI原创趣味设计，非经过心理测量验证的数据。",
+  "axes": [
+    {
+      "name": "同伴温度",
+      "low": "保留边界",
+      "high": "主动靠近",
+      "lowText": "你珍惜自己的空间，关系需要舒服的距离。",
+      "highText": "你乐意把身边的人带上，一起经历比独自完成更有意义。"
+    },
+    {
+      "name": "行动方式",
+      "low": "观察蓄力",
+      "high": "先行一步",
+      "lowText": "你习惯先看清局面，再把力气放在关键处。",
+      "highText": "你通常会先试一下，在行动里找到下一步。"
+    },
+    {
+      "name": "行事节奏",
+      "low": "灵活随兴",
+      "high": "有序推进",
+      "lowText": "你给变化留位置，愿意临场换一条路。",
+      "highText": "你喜欢可执行的计划，靠稳定推进换来踏实。"
+    },
+    {
+      "name": "情绪表达",
+      "low": "慢慢消化",
+      "high": "即时表达",
+      "lowText": "你的情绪有自己的消化过程，安静不等于没有感受。",
+      "highText": "你的开心与在意比较容易被看见，表达能帮你整理心情。"
+    }
+  ],
+  "characters": [
+    {
+      "id": "naidan",
+      "name": "奶蛋",
+      "nickname": "安静的兜底者",
+      "serial": "NAI–01",
+      "color": "#ffe04b",
+      "tags": [
+        "可靠",
+        "温柔",
+        "有韧性"
+      ],
+      "quote": "话可以少，接住你的那一下不能少。",
+      "profile": [
+        85,
+        30,
+        85,
+        20
+      ],
+      "summary": "你习惯把在意放在行动里。大家慌成一团时，你往往是那个记得带钥匙、留位置、把事情收尾的人。你的可靠没有很大声，却能让人松一口气。你需要的不是更多任务，而是有人也认真问一句：你累不累？",
+      "strengths": [
+        "能留意别人忽略的小需求",
+        "答应的事情会认真放在心上"
+      ],
+      "blindSpot": "你容易把“我能撑住”变成默认选项，直到自己的电量见底。",
+      "relationship": "把需要说出来。被照顾不会减少你的可靠，反而让关系更长久。",
+      "image": "/images/BV1WXgV66EjY.jpg",
+      "imageCaption": "《选择奶鼠还是奶蛋》封面，右侧为奶蛋",
+      "stories": [
+        {
+          "title": "为什么大家遇险会想起奶蛋？",
+          "text": "在网友对奶伴闯关的总结中，奶蛋被放在最可信赖的位置，也被提及会在奶茶相关危机里救场。",
+          "evidence": "网友解读，非统一官方设定",
+          "sourceIds": [
+            "rank",
+            "mouseEgg"
+          ],
+          "image": "/images/BV1WXgV66EjY.jpg"
+        },
+        {
+          "title": "同一颗蛋，也进入了实验和吃播",
+          "text": "同一位作者还发布过《奶德堡半蛋实验》和《冰糖奶蛋》。目前核对到标题，实验过程和结局不作补写。",
+          "evidence": "作品存在已确认，剧情待补",
+          "sourceIds": [
+            "experiment",
+            "sugar"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "naiwa",
+      "name": "奶蛙",
+      "nickname": "把气氛接住的人",
+      "serial": "NAI–02",
+      "color": "#ffe04b",
+      "tags": [
+        "乐观",
+        "有感染力",
+        "会引路"
+      ],
+      "quote": "事情可以慢慢想，笑先借你一点。",
+      "profile": [
+        85,
+        65,
+        30,
+        90
+      ],
+      "summary": "你很容易把一群零散的人变成“我们”。冷场时接一句话，朋友低落时换个角度，你不一定有标准答案，却能让人愿意再试一次。你喜欢活起来的现场，也需要记得：不开心的时候，不用一直负责逗大家笑。",
+      "strengths": [
+        "能缓和气氛，让交流重新开始",
+        "面对变化愿意保留好奇和希望"
+      ],
+      "blindSpot": "你有时会太快用玩笑跳过自己的难过，让别人误以为你永远没事。",
+      "relationship": "偶尔直接说“今天我也需要安慰”，真正亲近的人会听懂。",
+      "image": "/images/milkyfrog-hero.png",
+      "imageCaption": "Milky Frog 网站角色图",
+      "stories": [
+        {
+          "title": "从一阵笑声开始",
+          "text": "Milky Frog 网站把持续大笑作为角色核心；奶伴讨论里，奶蛙又被理解为提供提示的引路者。",
+          "evidence": "网站介绍＋网友解读，来自不同版本",
+          "sourceIds": [
+            "frog",
+            "rank"
+          ]
+        },
+        {
+          "title": "奶鼠的开学第一天",
+          "text": "一则“奶鼠第一天上学”的视频转写里，两只奶互相介绍，随后相约同行。",
+          "evidence": "自动转写仅支持相识与同行",
+          "sourceIds": [
+            "school"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "naishu",
+      "name": "奶鼠",
+      "nickname": "机灵的自保派",
+      "serial": "NAI–03",
+      "color": "#d6d5ff",
+      "tags": [
+        "敏锐",
+        "机灵",
+        "边界感"
+      ],
+      "quote": "先看清局面，再决定要不要上桌。",
+      "profile": [
+        20,
+        75,
+        20,
+        70
+      ],
+      "summary": "你对气氛变化和利益分配很敏感，常常比别人早一步发现“不太对劲”。你不爱照单全收，喜欢自己找入口和退路。这份机灵能让你少踩坑；如果愿意提前说清立场，也能让别人更放心地靠近你。",
+      "strengths": [
+        "能发现局面里的漏洞和替代路线",
+        "知道什么时候需要为自己争取"
+      ],
+      "blindSpot": "临时改变主意却不解释，可能让同伴把你的自保误解成不在乎。",
+      "relationship": "明确承诺的范围，再认真兑现。你可以有边界，也可以很讲义气。",
+      "image": "/images/BV1WXgV66EjY.jpg",
+      "imageCaption": "《选择奶鼠还是奶蛋》封面，左侧为奶鼠",
+      "stories": [
+        {
+          "title": "想玩一下手机，也能有一场风波",
+          "text": "“奶鼠只是想玩手机”的作品把奶鼠与奶粉放在一场日常矛盾中；观众则在评论里替奶鼠说话。",
+          "evidence": "依据作品标题与观众反应",
+          "sourceIds": [
+            "phone"
+          ]
+        },
+        {
+          "title": "被嫌弃，也被保护",
+          "text": "奶伴排行中有人不信任奶鼠，另一些日常动画的评论却在维护它。NAIBTI 保留这种多面性，不把测到奶鼠等同于人品差。",
+          "evidence": "不同作者与观众版本存在冲突",
+          "sourceIds": [
+            "rank",
+            "mousePink",
+            "mouseEgg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "naifen",
+      "name": "奶粉",
+      "nickname": "精打细算的现实派",
+      "serial": "NAI–04",
+      "color": "#f7b5d1",
+      "tags": [
+        "务实",
+        "清醒",
+        "讲边界"
+      ],
+      "quote": "感情归感情，账也可以好好算。",
+      "profile": [
+        20,
+        60,
+        85,
+        65
+      ],
+      "summary": "你希望付出、规则和回报都说得明白。做决定时，你会自然地想到成本、时间和谁来负责。这种现实感能让空想真正落地。你并不是不在乎别人，只是更相信清楚的约定；温柔一点地表达，别人会更容易理解你。",
+      "strengths": [
+        "能识别不公平或不可持续的安排",
+        "做取舍果断，善于配置有限资源"
+      ],
+      "blindSpot": "太急着指出成本，可能让对方觉得自己的感受没有被听见。",
+      "relationship": "先回应感受，再讨论边界。把“凭什么”换成“我们怎么分担”。",
+      "stories": [
+        {
+          "title": "一场看热闹引出的站队",
+          "text": "《奶粉看奶鼠出丑了，老得瑟了》把奶粉写进两者的冲突中，评论区有人转而支持奶鼠。",
+          "evidence": "标题及评论，不补写动作细节",
+          "sourceIds": [
+            "mousePink"
+          ]
+        },
+        {
+          "title": "奶伴里，也有自己的打算",
+          "text": "网友的闯关排行将奶粉描述为可能优先考虑自身利益的角色。测试把这一侧面改编成务实与边界感。",
+          "evidence": "网友解读；后半为测试原创转译",
+          "sourceIds": [
+            "rank"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "naiping",
+      "name": "奶瓶",
+      "nickname": "关键时刻的行动派",
+      "serial": "NAI–05",
+      "color": "#addef4",
+      "tags": [
+        "执行力",
+        "担当",
+        "稳得住"
+      ],
+      "quote": "你先缓口气，这一段我来。",
+      "profile": [
+        80,
+        90,
+        80,
+        40
+      ],
+      "summary": "比起反复描述问题，你更愿意找到能做的那一步。你对任务有责任感，愿意承担最费力的部分，也喜欢事情被有条理地完成。你的力量感来自可兑现的行动。偶尔慢一点，让别人也有机会参与，会让团队更轻松。",
+      "strengths": [
+        "能把讨论推进到具体行动",
+        "压力下仍会关注任务与责任"
+      ],
+      "blindSpot": "太习惯自己顶上，可能无意中把所有人都变成了被安排的一方。",
+      "relationship": "动手之前问一句“你想让我怎么帮”，支持就会更贴合对方。",
+      "stories": [
+        {
+          "title": "被信任的搭档",
+          "text": "奶伴系列列有“选择奶蛙还是奶瓶”；网友排行把奶瓶看作体力与关键时刻表现突出的可靠搭档。",
+          "evidence": "系列目录＋网友解读，尚无完整剧情转写",
+          "sourceIds": [
+            "eggDog",
+            "rank"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dounai",
+      "name": "豆奶",
+      "nickname": "走出另一条路的人",
+      "serial": "NAI–06",
+      "color": "#ffc790",
+      "tags": [
+        "好奇",
+        "脑洞",
+        "爱尝试"
+      ],
+      "quote": "没有这条路？那我先走两步看看。",
+      "profile": [
+        55,
+        95,
+        15,
+        40
+      ],
+      "summary": "你喜欢亲自试出答案。别人还在等一份完整说明，你已经开始摆弄手边的东西，意外也能变成线索。你最有魅力的地方是敢于探索。给发现留下一点记录，再补上必要的确认，你的灵感就更容易被别人接住。",
+      "strengths": [
+        "善于从意外中找到新可能",
+        "面对陌生任务愿意主动试验"
+      ],
+      "blindSpot": "开了很多新路线，却可能忘记告诉同伴哪条真的走通了。",
+      "relationship": "把探索发现及时分享，也约好什么时候回到共同目标。",
+      "image": "/images/BV1t4uh6tENG.jpg",
+      "imageCaption": "《选择奶蛙还是豆奶》封面",
+      "stories": [
+        {
+          "title": "答案可能在意料之外",
+          "text": "在网友对“选择奶伴”的概括中，豆奶会自行找办法，意外碰撞也可能带来转机。",
+          "evidence": "网友概括，未核实每次闯关细节",
+          "sourceIds": [
+            "rank",
+            "bean"
+          ],
+          "image": "/images/BV1t4uh6tENG.jpg"
+        }
+      ]
+    },
+    {
+      "id": "naicha",
+      "name": "奶茶",
+      "nickname": "随兴的快乐玩家",
+      "serial": "NAI–07",
+      "color": "#efc0e5",
+      "tags": [
+        "松弛",
+        "重体验",
+        "有趣"
+      ],
+      "quote": "先感受一下，人生不只有通关。",
+      "profile": [
+        45,
+        35,
+        10,
+        90
+      ],
+      "summary": "你会被一段有趣的路、一顿好吃的饭、一个忽然冒出来的念头吸引。你很会感受生活，也常常让严肃的局面多一点轻盈。你需要练习的不是停止快乐，而是给重要的约定留一个提醒，让随兴和可靠一起存在。",
+      "strengths": [
+        "容易发现日常里的小乐趣",
+        "能为重复的生活带来新鲜体验"
+      ],
+      "blindSpot": "顺着当下的心情走，可能让身边的人不得不临时替你收尾。",
+      "relationship": "开心可以一起找，责任也要一起分。记得感谢真正替你兜底的人。",
+      "image": "/images/BV1PS826nELQ.jpg",
+      "imageCaption": "值守灯塔组合封面；杯状角色为奶茶",
+      "stories": [
+        {
+          "title": "会让人捏把汗的奶伴",
+          "text": "“选择奶蛙还是奶茶”将它作为搭档选项。网友讨论则常把奶茶与需要救场的局面连在一起。",
+          "evidence": "作品标题＋网友解读",
+          "sourceIds": [
+            "tea",
+            "rank"
+          ],
+          "image": "/images/BV1UYu26zE4f.jpg"
+        }
+      ]
+    },
+    {
+      "id": "naicha-police",
+      "name": "奶察",
+      "nickname": "有原则的秩序派",
+      "serial": "NAI–08",
+      "color": "#aac5ff",
+      "tags": [
+        "公正",
+        "有原则",
+        "敢出声"
+      ],
+      "quote": "规矩可以讨论，不能只对一个人有效。",
+      "profile": [
+        40,
+        85,
+        95,
+        20
+      ],
+      "summary": "你对规则是否一致、公平很在意。遇到模糊责任或越界行为，你通常不会一直装作没看见。你的清晰能给别人安全感。不过同一套规则落到不同的人身上，也需要了解具体处境；先问明白，再做判断，会更有说服力。",
+      "strengths": [
+        "敢于指出问题并澄清责任",
+        "能为混乱的局面建立明确边界"
+      ],
+      "blindSpot": "在还没听完对方解释时，就可能已经准备好结论。",
+      "relationship": "原则要清楚，语气可以柔和。了解原因并不等于放弃规则。",
+      "stories": [
+        {
+          "title": "当奶鼠遇上奶察",
+          "text": "《奶鼠被奶察教训》直接让两者发生冲突，部分观众将奶察读作维护秩序的一方。",
+          "evidence": "作品标题＋观众解读，非对惩罚方式的认同",
+          "sourceIds": [
+            "police"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "naigui",
+      "name": "奶龟",
+      "nickname": "按自己节奏到达的人",
+      "serial": "NAI–09",
+      "color": "#baddca",
+      "tags": [
+        "耐心",
+        "专注",
+        "长期主义"
+      ],
+      "quote": "慢一点没关系，我一直在往前。",
+      "profile": [
+        30,
+        25,
+        95,
+        15
+      ],
+      "summary": "你不太需要时刻证明自己跑得最快。只要方向值得，你愿意重复、积累，把一点点进度变成真正的成果。你身上的踏实很珍贵。也别把稳定变成唯一的答案：偶尔停下来确认目标，能让努力花在更合适的地方。",
+      "strengths": [
+        "能在缺少即时回报时继续推进",
+        "习惯把承诺拆成能完成的小步骤"
+      ],
+      "blindSpot": "已经不合适的方法，你有时也会因为坚持了很久而舍不得换。",
+      "relationship": "告诉别人你的节奏和预计到达的时间，安静的努力也值得被看见。",
+      "image": "/images/BV1JcKH6CEeH.jpg",
+      "imageCaption": "《奶龟和奶兔赛跑》封面，龟在兔后方",
+      "stories": [
+        {
+          "title": "奶村也有一场龟兔赛跑",
+          "text": "奶史把龟兔赛跑改编进奶系世界。观众复述多将奶龟描述为最终到达终点的一方。",
+          "evidence": "作品及观众复述；评论对经过有不同说法",
+          "sourceIds": [
+            "race",
+            "raceDiscussion"
+          ],
+          "image": "/images/BV1JcKH6CEeH.jpg"
+        }
+      ]
+    },
+    {
+      "id": "naitu",
+      "name": "奶兔",
+      "nickname": "追着心动跑的灵感派",
+      "serial": "NAI–10",
+      "color": "#ffd19c",
+      "tags": [
+        "热情",
+        "轻快",
+        "易心动"
+      ],
+      "quote": "终点要去，路边的快乐也想看。",
+      "profile": [
+        25,
+        95,
+        20,
+        95
+      ],
+      "summary": "你一旦对什么产生兴趣，启动速度就特别快。你的热情会让普通的事情变得生动，也容易让人被你带着走。你并不缺能力，而是容易同时被太多东西吸引。给最重要的一件事划个小终点，快乐和完成可以同时拥有。",
+      "strengths": [
+        "在喜欢的事情上有很强的启动能量",
+        "能敏锐捕捉让自己兴奋的新机会"
+      ],
+      "blindSpot": "最初冲得很快，等新鲜感过去，注意力可能已经跑向下一件事。",
+      "relationship": "提前约好收尾的办法，让别人既享受你的热情，也能信任你的后半程。",
+      "image": "/images/BV1JcKH6CEeH.jpg",
+      "imageCaption": "《奶龟和奶兔赛跑》封面，前方长耳角色为奶兔",
+      "stories": [
+        {
+          "title": "赢了比赛，还是得到了萝卜？",
+          "text": "赛跑评论里，有人复述奶兔途中停下，有人打趣它得到了萝卜，也有人把它读成主动让赛。",
+          "evidence": "多种网友解释；不把让赛说法当既定剧情",
+          "sourceIds": [
+            "race",
+            "raceDiscussion"
+          ],
+          "image": "/images/BV1JcKH6CEeH.jpg"
+        }
+      ]
+    },
+    {
+      "id": "naigou",
+      "name": "奶狗",
+      "nickname": "认真回应的陪伴派",
+      "serial": "NAI–11",
+      "color": "#f3d89d",
+      "tags": [
+        "亲近",
+        "热忱",
+        "重回应"
+      ],
+      "quote": "你叫我一声，我就认真回应。",
+      "profile": [
+        95,
+        65,
+        80,
+        95
+      ],
+      "summary": "你很珍惜关系里的回应。共同的小习惯、及时的消息、被记住的一句话，都能给你很多能量。你擅长用热情让人知道“我在”。别让自己只靠别人的反馈充电，留一些只属于自己的快乐，你的陪伴会更从容。",
+      "strengths": [
+        "愿意主动维系关系和共同习惯",
+        "表达喜欢直接，让人感到被重视"
+      ],
+      "blindSpot": "对回应速度太敏感时，可能会把对方的忙碌误解成疏远。",
+      "relationship": "把期待讲清楚，也给彼此不同的节奏一点空间。",
+      "image": "/images/BV14yto62ESb.jpg",
+      "imageCaption": "《选择奶蛋还是奶狗》雪地封面",
+      "stories": [
+        {
+          "title": "奶蛙世界里的宠物",
+          "text": "楨乖的二创图鉴把奶狗、奶猫归入宠物一类：不能与人类用语言沟通，但对人友好。",
+          "evidence": "单一作者的世界观设定",
+          "sourceIds": [
+            "types3"
+          ]
+        },
+        {
+          "title": "从雪地奶伴到“巴甫奶夫”",
+          "text": "奶史发布过“选择奶蛋还是奶狗”和“巴甫奶夫的奶狗”。后者目前仅核对到标题，不能据此认定具体实验剧情。",
+          "evidence": "作品存在已确认，剧情待补",
+          "sourceIds": [
+            "eggDog",
+            "pavlov"
+          ],
+          "image": "/images/BV14yto62ESb.jpg"
+        }
+      ]
+    },
+    {
+      "id": "naimao",
+      "name": "奶猫",
+      "nickname": "轻轻靠近的慢热派",
+      "serial": "NAI–12",
+      "color": "#d9c9ed",
+      "tags": [
+        "细腻",
+        "慢热",
+        "安静陪伴"
+      ],
+      "quote": "我不一定接话，但我在认真听。",
+      "profile": [
+        65,
+        15,
+        25,
+        15
+      ],
+      "summary": "你更喜欢舒服、自然、不用一直解释自己的相处。你不急着加入每一场热闹，但对熟悉的人和细节很敏感。你的陪伴往往很安静，却不敷衍。偶尔主动把心里的话说出来，能让别人少猜一点，也更靠近真实的你。",
+      "strengths": [
+        "愿意观察和倾听，给感受留空间",
+        "能在安静的相处中建立亲近"
+      ],
+      "blindSpot": "你觉得已经表现得很明显，别人却可能没看出你其实很在意。",
+      "relationship": "不用变得外向，一条主动的消息、一个明确的邀请就够了。",
+      "stories": [
+        {
+          "title": "不说人话，也可以亲近",
+          "text": "在楨乖的宠物奶蛙设定中，奶猫与奶狗一起出现。原设定只支持友好与非语言沟通；慢热、细腻是本测试的创作。",
+          "evidence": "作者设定与测试创作明确分开",
+          "sourceIds": [
+            "types3"
+          ]
+        }
+      ]
+    }
+  ],
+  "archive": [
+    {
+      "id": "naiji",
+      "name": "奶鸡",
+      "category": "角色",
+      "note": "出现在奶史的奶伴选择中，红鸡冠、黄色小体型。仅标题和形象已核对，性格不补写。",
+      "sourceIds": [
+        "chicken"
+      ],
+      "image": "/images/BV1SdtH6HE1q.jpg"
+    },
+    {
+      "id": "naishe",
+      "name": "奶蛇",
+      "category": "角色",
+      "note": "夜ガ风发布“选择奶蛙还是奶蛇”，已确认二创条目存在。剧情和统一性格待补。",
+      "sourceIds": [
+        "snake"
+      ]
+    },
+    {
+      "id": "naikuai",
+      "name": "奶块",
+      "category": "角色",
+      "note": "奶伴二创中有“选择奶蛙还是奶块”，与同名游戏分开记录。",
+      "sourceIds": [
+        "block"
+      ]
+    },
+    {
+      "id": "naifu",
+      "name": "奶蝠",
+      "category": "角色",
+      "note": "已找到“还我奶蝠”视频标题；暂无足够剧情证据用于人格评分。",
+      "sourceIds": [
+        "bat"
+      ]
+    },
+    {
+      "id": "primitive",
+      "name": "原始奶蛙",
+      "category": "变体",
+      "note": "楨乖图鉴中的祖先型设定，属于网友世界观，不是已证实的真实创作起源。",
+      "sourceIds": [
+        "types1"
+      ]
+    },
+    {
+      "id": "crawling",
+      "name": "爬行奶蛙",
+      "category": "变体",
+      "note": "楨乖设定为性情乖顺、以爬行为主的族群。",
+      "sourceIds": [
+        "types1"
+      ]
+    },
+    {
+      "id": "small",
+      "name": "小奶蛙",
+      "category": "变体",
+      "note": "该图鉴的幼年体，瘦小、友善。未独立设为人格类型。",
+      "sourceIds": [
+        "types1"
+      ]
+    },
+    {
+      "id": "basketball",
+      "name": "奶巴 / 篮球奶蛙",
+      "category": "变体",
+      "note": "楨乖图鉴中的篮球换装角色；保留名称与来源，不把真人相关恶搞当人格标签。",
+      "sourceIds": [
+        "types3"
+      ]
+    },
+    {
+      "id": "monk",
+      "name": "和尚奶蛙",
+      "category": "变体",
+      "note": "同一作者笔下穿僧袍的角色。原帖设定有限，不据服装推断人格。",
+      "sourceIds": [
+        "types3"
+      ]
+    },
+    {
+      "id": "gold",
+      "name": "金蛙",
+      "category": "变体",
+      "note": "手作介绍的金色变体，自动转写来源，名称仍可继续核对。",
+      "sourceIds": [
+        "clay"
+      ]
+    },
+    {
+      "id": "silver",
+      "name": "银蛙",
+      "category": "变体",
+      "note": "与金蛙一起出现的银色手作变体。",
+      "sourceIds": [
+        "clay"
+      ]
+    },
+    {
+      "id": "pink-frog",
+      "name": "粉蛙",
+      "category": "变体",
+      "note": "手作转写中的粉色蛙；暂不自动等同“奶粉”。",
+      "sourceIds": [
+        "clay"
+      ]
+    },
+    {
+      "id": "xuexitong",
+      "name": "学习通蛙",
+      "category": "待核实称呼",
+      "note": "自动转写出现的名称，需原视频画面及字幕再次确认。",
+      "sourceIds": [
+        "clay"
+      ]
+    },
+    {
+      "id": "lobster",
+      "name": "龙虾味奶蛙",
+      "category": "变体",
+      "note": "手作作者按小龙虾主题制作的造型，未见稳定性格。",
+      "sourceIds": [
+        "clay"
+      ]
+    },
+    {
+      "id": "rainbow",
+      "name": "七彩奶蛙",
+      "category": "变体",
+      "note": "手作介绍中的七彩造型；所谓稀有年份属于玩梗设定。",
+      "sourceIds": [
+        "clay"
+      ]
+    },
+    {
+      "id": "smallgold",
+      "name": "小黄金奶蛙",
+      "category": "变体",
+      "note": "手作转写里的另一种金色造型，是否与金蛙同义尚未确认。",
+      "sourceIds": [
+        "clay"
+      ]
+    },
+    {
+      "id": "darthmouse",
+      "name": "达斯奶鼠",
+      "category": "待核实称呼",
+      "note": "来自观众评论中的跨作品联想，尚未确认为独立角色。",
+      "sourceIds": [
+        "darth"
+      ]
+    },
+    {
+      "id": "mangomouse",
+      "name": "芒果奶鼠",
+      "category": "变体",
+      "note": "塞尔达鼠的视频标题确认了这一称呼，完整设定待补。",
+      "sourceIds": [
+        "mangoMouse"
+      ]
+    },
+    {
+      "id": "carrot",
+      "name": "奶萝卜",
+      "category": "待核实称呼",
+      "note": "赛跑评论提到与奶兔一起大笑的奶萝卜；暂只保留评论称呼。",
+      "sourceIds": [
+        "raceDiscussion"
+      ]
+    },
+    {
+      "id": "icarus",
+      "name": "奶厄龙",
+      "category": "变体",
+      "note": "《奶厄龙的坠落》作者说明是 AI 演绎名画的瞬间；不扩写结局。",
+      "sourceIds": [
+        "icarus"
+      ]
+    },
+    {
+      "id": "napoleon",
+      "name": "拿破仑奶蛙",
+      "category": "变体",
+      "note": "以该名称发布的跨题材二创，尚无足够剧情支撑独立人格。",
+      "sourceIds": [
+        "napoleon"
+      ]
+    },
+    {
+      "id": "agentfrog",
+      "name": "特工奶蛙",
+      "category": "变体",
+      "note": "已确认同名视频。职业换装与基础奶蛙分开记录。",
+      "sourceIds": [
+        "agent"
+      ]
+    },
+    {
+      "id": "nailong",
+      "name": "奶龙",
+      "category": "关联角色",
+      "note": "平台剧集简介中与小七一起遭遇反派、保护村庄。其动画设定不与奶蛙网友谱系直接合并。",
+      "sourceIds": [
+        "dragon"
+      ]
+    }
+  ],
+  "sources": {
+    "frog": {
+      "title": "奶蛙 Milky Frog",
+      "author": "Milky Frog 网站",
+      "url": "https://milkyfrog.com/",
+      "kind": "角色介绍",
+      "checked": "2026-09-09"
+    },
+    "rank": {
+      "title": "奶系角色强度排行",
+      "author": "大蛙疯狂呱 · 微博 / 新浪",
+      "url": "https://www.sina.cn/news/detail/5334846664871422.html",
+      "kind": "网友解读",
+      "checked": "2026-09-09"
+    },
+    "eggDog": {
+      "title": "选择奶蛋还是奶狗？",
+      "author": "奶史_",
+      "url": "https://www.bilibili.com/video/BV14yto62ESb/",
+      "kind": "作品标题及封面",
+      "checked": "2026-09-09"
+    },
+    "mouseEgg": {
+      "title": "选择奶鼠还是奶蛋？",
+      "author": "奶史_",
+      "url": "https://www.bilibili.com/video/BV1WXgV66EjY/",
+      "kind": "作品标题及封面",
+      "checked": "2026-09-09"
+    },
+    "frogEgg": {
+      "title": "选择奶蛋还是奶蛙？",
+      "author": "奶史_",
+      "url": "https://www.bilibili.com/video/BV1aN8n6sEGP/",
+      "kind": "作品标题及封面",
+      "checked": "2026-09-09"
+    },
+    "tea": {
+      "title": "选择奶蛙还是奶茶？",
+      "author": "奶史_",
+      "url": "https://www.bilibili.com/video/BV1UYu26zE4f/",
+      "kind": "作品标题及封面",
+      "checked": "2026-09-09"
+    },
+    "bean": {
+      "title": "选择奶蛙还是豆奶？",
+      "author": "奶史_",
+      "url": "https://www.bilibili.com/video/BV1t4uh6tENG/",
+      "kind": "作品标题及封面",
+      "checked": "2026-09-09"
+    },
+    "chicken": {
+      "title": "选择奶蛙还是奶鸡？",
+      "author": "奶史_",
+      "url": "https://www.bilibili.com/video/BV1SdtH6HE1q/",
+      "kind": "作品标题及封面",
+      "checked": "2026-09-09"
+    },
+    "lighthouse": {
+      "title": "选择一对搭档陪你值守灯塔",
+      "author": "奶史_",
+      "url": "https://www.bilibili.com/video/BV1PS826nELQ/",
+      "kind": "作品标题及封面",
+      "checked": "2026-09-09"
+    },
+    "park": {
+      "title": "选择一个奶伴陪你逃离游乐园",
+      "author": "奶史_",
+      "url": "https://www.bilibili.com/video/BV1bvMk6ZERm/",
+      "kind": "作品标题及封面",
+      "checked": "2026-09-09"
+    },
+    "night": {
+      "title": "选择一个奶伴陪你值夜班",
+      "author": "奶史_",
+      "url": "https://www.bilibili.com/video/BV1AV396WEqR/",
+      "kind": "作品标题及封面",
+      "checked": "2026-09-09"
+    },
+    "race": {
+      "title": "奶龟和奶兔赛跑",
+      "author": "奶史_",
+      "url": "https://www.bilibili.com/video/BV1JcKH6CEeH/",
+      "kind": "作品标题及封面",
+      "checked": "2026-09-09"
+    },
+    "raceDiscussion": {
+      "title": "奶龟和奶兔赛跑 · 观众讨论",
+      "author": "奶史 · 抖音",
+      "url": "https://www.douyin.com/video/7663370510697349035",
+      "kind": "标题及网友剧情复述",
+      "checked": "2026-09-09"
+    },
+    "mousePink": {
+      "title": "奶粉看奶鼠出丑了，老得瑟了",
+      "author": "鼠粉动画（名画收藏）奶总",
+      "url": "https://www.douyin.com/video/7655968905470853738",
+      "kind": "作品标题及评论",
+      "checked": "2026-09-09"
+    },
+    "phone": {
+      "title": "奶鼠只是想玩手机嘛，臭奶粉真小气",
+      "author": "老实的鼠鼠大王",
+      "url": "https://www.douyin.com/video/7681182307893612458",
+      "kind": "作品标题及评论",
+      "checked": "2026-09-09"
+    },
+    "police": {
+      "title": "奶鼠被奶察教训",
+      "author": "苹果奶绿",
+      "url": "https://www.douyin.com/video/7674743742071289737",
+      "kind": "作品标题及评论",
+      "checked": "2026-09-09"
+    },
+    "school": {
+      "title": "奶鼠第一天上学，认识了奶蛙",
+      "author": "冷墨痕 / 抖音聚合页",
+      "url": "https://www.douyin.com/shipin/7633633869635389459",
+      "kind": "聚合页自动转写",
+      "checked": "2026-09-09"
+    },
+    "types1": {
+      "title": "如何分辨目前已知的每只奶蛙 · 第一期",
+      "author": "楨乖 · 微博 / 新浪",
+      "url": "https://www.sina.cn/news/detail/5295595256546400.html",
+      "kind": "作者二创设定",
+      "checked": "2026-09-09"
+    },
+    "types3": {
+      "title": "如何分辨目前已知的每只奶蛙 · 第三期",
+      "author": "楨乖 · 微博 / 新浪",
+      "url": "https://www.sina.cn/news/detail/5295597734594960.html",
+      "kind": "作者二创设定",
+      "checked": "2026-09-09"
+    },
+    "clay": {
+      "title": "奶娃学2 · 奶蛙手作介绍",
+      "author": "抖音聚合页",
+      "url": "https://www.douyin.com/shipin/7643237699305916456",
+      "kind": "聚合页自动转写，名称需复核",
+      "checked": "2026-09-09"
+    },
+    "pavlov": {
+      "title": "巴甫奶夫的奶狗",
+      "author": "奶史_",
+      "url": "https://www.bilibili.com/video/BV1udbN6GEya/",
+      "kind": "仅作品标题",
+      "checked": "2026-09-09"
+    },
+    "experiment": {
+      "title": "奶德堡半蛋实验",
+      "author": "奶史_",
+      "url": "https://www.bilibili.com/video/BV1tXKf6YEqE/",
+      "kind": "仅作品标题",
+      "checked": "2026-09-09"
+    },
+    "sugar": {
+      "title": "冰糖奶蛋",
+      "author": "奶史_",
+      "url": "https://www.bilibili.com/video/BV1gSNu6bEX9/",
+      "kind": "仅作品标题",
+      "checked": "2026-09-09"
+    },
+    "snake": {
+      "title": "选择 奶蛙还是奶蛇",
+      "author": "夜ガ风",
+      "url": "https://www.bilibili.com/video/BV1if8J6bEoX/",
+      "kind": "仅作品标题",
+      "checked": "2026-09-09"
+    },
+    "block": {
+      "title": "选择奶蛙还是奶块？",
+      "author": "奶块的",
+      "url": "https://www.bilibili.com/video/BV1WSYJ6jEif/",
+      "kind": "仅作品标题",
+      "checked": "2026-09-09"
+    },
+    "bat": {
+      "title": "还我奶蝠",
+      "author": "大佛Pro",
+      "url": "https://www.bilibili.com/video/BV1Tutm6SE7b/",
+      "kind": "仅作品标题",
+      "checked": "2026-09-09"
+    },
+    "mangoMouse": {
+      "title": "芒果奶鼠可爱捏",
+      "author": "塞尔达鼠",
+      "url": "https://www.bilibili.com/video/BV16bb56DEQH/",
+      "kind": "仅作品标题",
+      "checked": "2026-09-09"
+    },
+    "darth": {
+      "title": "感谢奶家人的支持 · 达斯奶鼠评论",
+      "author": "朵莉玩偶屋 / 观众",
+      "url": "https://www.douyin.com/video/7663817936984899173",
+      "kind": "评论称呼",
+      "checked": "2026-09-09"
+    },
+    "icarus": {
+      "title": "奶厄龙的坠落",
+      "author": "木叶の黄色闪光z",
+      "url": "https://www.bilibili.com/video/BV1b1bg6WEy3/",
+      "kind": "标题及作者简介",
+      "checked": "2026-09-09"
+    },
+    "napoleon": {
+      "title": "Astra巨作之拿破仑奶蛙",
+      "author": "Luna今天做什么",
+      "url": "https://www.bilibili.com/video/BV1Gfbu6dEdT/",
+      "kind": "仅作品标题",
+      "checked": "2026-09-09"
+    },
+    "agent": {
+      "title": "特工奶蛙",
+      "author": "麦丽素哈哈哈",
+      "url": "https://www.bilibili.com/video/BV1XZbu6xEH1/",
+      "kind": "仅作品标题",
+      "checked": "2026-09-09"
+    },
+    "dragon": {
+      "title": "奶龙与小七之大战暴暴龙 · 好习惯养成",
+      "author": "爱奇艺剧集页",
+      "url": "https://www.iqiyi.com/a_z74n8v8fo5.html",
+      "kind": "平台剧集简介",
+      "checked": "2026-09-09"
+    }
+  }
+}
