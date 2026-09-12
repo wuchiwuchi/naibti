@@ -60,8 +60,8 @@
       ],
       "blindSpot": "你容易把“我能撑住”变成默认选项，直到自己的电量见底。",
       "relationship": "把需要说出来。被照顾不会减少你的可靠，反而让关系更长久。",
-      "image": "/images/BV1WXgV66EjY.jpg",
-      "imageCaption": "《选择奶鼠还是奶蛋》封面，右侧为奶蛋",
+      "image": "/images/characters/naidan.jpg",
+      "imageCaption": "奶史_《奶德堡半蛋实验》封面：中央为奶蛋。",
       "stories": [
         {
           "title": "为什么大家遇险会想起奶蛋？",
@@ -109,8 +109,8 @@
       ],
       "blindSpot": "你有时会太快用玩笑跳过自己的难过，让别人误以为你永远没事。",
       "relationship": "偶尔直接说“今天我也需要安慰”，真正亲近的人会听懂。",
-      "image": "/images/milkyfrog-hero.png",
-      "imageCaption": "Milky Frog 网站角色图",
+      "image": "/images/characters/naiwa.png",
+      "imageCaption": "Milky Frog 网站公开的奶蛙参考形象。",
       "stories": [
         {
           "title": "从一阵笑声开始",
@@ -156,8 +156,8 @@
       ],
       "blindSpot": "临时改变主意却不解释，可能让同伴把你的自保误解成不在乎。",
       "relationship": "明确承诺的范围，再认真兑现。你可以有边界，也可以很讲义气。",
-      "image": "/images/BV1WXgV66EjY.jpg",
-      "imageCaption": "《选择奶鼠还是奶蛋》封面，左侧为奶鼠",
+      "image": "/images/characters/naishu.jpg",
+      "imageCaption": "塞尔达鼠《芒果奶鼠可爱捏》封面中的奶鼠变体。",
       "stories": [
         {
           "title": "想玩一下手机，也能有一场风波",
@@ -221,7 +221,9 @@
             "rank"
           ]
         }
-      ]
+      ],
+      "image": "/images/characters/naifen.jpg",
+      "imageCaption": "Inmmaanseoi《奶粉爆抽奶鼠》约 00:30：穿球衣的奶粉。"
     },
     {
       "id": "naiping",
@@ -258,7 +260,9 @@
             "rank"
           ]
         }
-      ]
+      ],
+      "image": "/images/characters/naiping.jpg",
+      "imageCaption": "奶史_《选择奶蛙还是奶瓶？》封面：右侧为奶瓶。"
     },
     {
       "id": "dounai",
@@ -285,8 +289,8 @@
       ],
       "blindSpot": "开了很多新路线，却可能忘记告诉同伴哪条真的走通了。",
       "relationship": "把探索发现及时分享，也约好什么时候回到共同目标。",
-      "image": "/images/BV1t4uh6tENG.jpg",
-      "imageCaption": "《选择奶蛙还是豆奶》封面",
+      "image": "/images/characters/dounai.jpg",
+      "imageCaption": "奶史_《选择奶蛙还是豆奶？》约 00:18 的豆奶。",
       "stories": [
         {
           "title": "答案可能在意料之外",
@@ -325,8 +329,8 @@
       ],
       "blindSpot": "顺着当下的心情走，可能让身边的人不得不临时替你收尾。",
       "relationship": "开心可以一起找，责任也要一起分。记得感谢真正替你兜底的人。",
-      "image": "/images/BV1PS826nELQ.jpg",
-      "imageCaption": "值守灯塔组合封面；杯状角色为奶茶",
+      "image": "/images/characters/naicha.jpg",
+      "imageCaption": "奶史_《选择奶蛙还是奶茶？》约 02:20：右侧为奶茶。",
       "stories": [
         {
           "title": "会让人捏把汗的奶伴",
@@ -374,7 +378,9 @@
             "police"
           ]
         }
-      ]
+      ],
+      "image": "/images/characters/naicha-police.jpg",
+      "imageCaption": "苹果奶绿《奶鼠被奶察教训》约 00:15 的奶察。"
     },
     {
       "id": "naigui",
@@ -401,8 +407,8 @@
       ],
       "blindSpot": "已经不合适的方法，你有时也会因为坚持了很久而舍不得换。",
       "relationship": "告诉别人你的节奏和预计到达的时间，安静的努力也值得被看见。",
-      "image": "/images/BV1JcKH6CEeH.jpg",
-      "imageCaption": "《奶龟和奶兔赛跑》封面，龟在兔后方",
+      "image": "/images/characters/naigui.jpg",
+      "imageCaption": "奶史_《奶龟和奶兔赛跑》约 00:27 的奶龟。",
       "stories": [
         {
           "title": "奶村也有一场龟兔赛跑",
@@ -441,8 +447,8 @@
       ],
       "blindSpot": "最初冲得很快，等新鲜感过去，注意力可能已经跑向下一件事。",
       "relationship": "提前约好收尾的办法，让别人既享受你的热情，也能信任你的后半程。",
-      "image": "/images/BV1JcKH6CEeH.jpg",
-      "imageCaption": "《奶龟和奶兔赛跑》封面，前方长耳角色为奶兔",
+      "image": "/images/characters/naitu.jpg",
+      "imageCaption": "奶史_《奶龟和奶兔赛跑》约 00:06 的奶兔。",
       "stories": [
         {
           "title": "赢了比赛，还是得到了萝卜？",
@@ -481,8 +487,8 @@
       ],
       "blindSpot": "对回应速度太敏感时，可能会把对方的忙碌误解成疏远。",
       "relationship": "把期待讲清楚，也给彼此不同的节奏一点空间。",
-      "image": "/images/BV14yto62ESb.jpg",
-      "imageCaption": "《选择奶蛋还是奶狗》雪地封面",
+      "image": "/images/characters/naigou.jpg",
+      "imageCaption": "楨乖《奶蛙种类特征解析》第三期配图中的奶狗。",
       "stories": [
         {
           "title": "奶蛙世界里的宠物",
@@ -538,7 +544,9 @@
             "types3"
           ]
         }
-      ]
+      ],
+      "image": "/images/characters/naimao.jpg",
+      "imageCaption": "楨乖《奶蛙种类特征解析》第三期配图中的奶猫。"
     }
   ],
   "archive": [
@@ -752,6 +760,20 @@
     }
   ],
   "sources": {
+    "bottlePortrait": {
+      "title": "选择奶蛙还是奶瓶？",
+      "author": "奶史_",
+      "url": "https://www.bilibili.com/video/BV1ncbC6YEHv/",
+      "kind": "作品封面与片段",
+      "checked": "2026-09-12"
+    },
+    "powderPortrait": {
+      "title": "奶粉爆抽奶鼠",
+      "author": "Inmmaanseoi",
+      "url": "https://www.bilibili.com/video/BV1C2896iEYu/",
+      "kind": "作品片段",
+      "checked": "2026-09-12"
+    },
     "frog": {
       "title": "奶蛙 Milky Frog",
       "author": "Milky Frog 网站",
